@@ -6,6 +6,10 @@ public class test
 {
 	public static void main(String[] args)
 	{
+
+		// 여기다가 이제 추가 할 것은 배열 안에 있는 수를 입력받아서
+		// 실행해보는것을 추가 해 봐야겠다.
+		
 		int origin[] = {0,1,2,3,4};
 		
 		int copyArr[] = new int[origin.length]; 
